@@ -20,7 +20,7 @@ NYC Taxi.csv - Input dataset having information about different shows/movies ava
 
 Data Source:
 
-https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19499882-nyc-taxi-trip-time-prediction.
+https://grow.almabetter.com/data-science/projects/NYC-Taxi-Trip-Time-Prediction
 
 -----------------------------------------------------
 
